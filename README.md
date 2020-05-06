@@ -4,11 +4,11 @@ Group name: Satellite Precipitation
 
 Group member: Ankit Ghanghas and Pin-Ching Li 
 
-### Description:
+## Description:
 
 The files and codes of ABE65100 Final Project are uploaded to this repository 
 
-### Tasks which are finished: 
+## Tasks which are finished: 
 
 Project Proposal (Dataset selection): Project Proposal.pdf
 
